@@ -1,6 +1,6 @@
 # RoadMap for CIBOX
 
-1. Add support for CentOS, possibly OpenBSD/FreeBSD
+1. Add support for CentOS, possibly OpenBSD(ultimate security)/FreeBSD
 2. Add GUI for ability to run playbook via web UI (SaaS)
 3. Test VPSDIME hosting provider
 4. Cleanup Issue queue
