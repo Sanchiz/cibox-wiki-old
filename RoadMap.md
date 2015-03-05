@@ -2,4 +2,4 @@
 
 ## Cleanup Issue queue
 
-https://github.com/propeoplemd/cibox/issues/5
+[MYSQL tmpdir to ram](https://github.com/propeoplemd/cibox/issues/5)
