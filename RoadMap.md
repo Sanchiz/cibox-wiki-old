@@ -3,8 +3,7 @@
 1. Add support for CentOS, possibly OpenBSD/FreeBSD
 2. Add GUI for ability to run playbook via web UI (SaaS)
 3. Test VPSDIME hosting provider
-
-## Cleanup Issue queue
+4. Cleanup Issue queue
 
 ### Bugs
 * [JSHINT fixes](https://github.com/propeoplemd/cibox/issues/84)
