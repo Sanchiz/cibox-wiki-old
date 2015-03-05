@@ -2,4 +2,4 @@
 
 ## Cleanup Issue queue
 
-#5
+https://github.com/propeoplemd/cibox/issues/5
