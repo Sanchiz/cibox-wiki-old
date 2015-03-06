@@ -1,5 +1,6 @@
 Welcome to the cibox wiki!
 
+[RoadMap for development](https://github.com/propeoplemd/cibox/wiki/RoadMap)
 
 Current state of the project
 - most of the initial development was done by Andriy Podanenko. We have small contributions from Vasile and Alexander Schedrov, but they are new people and not so familiar yet with the goals of the project.
