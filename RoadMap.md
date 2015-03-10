@@ -1,13 +1,16 @@
 # RoadMap for CIBOX
 
 ## 1-2 week (10.03-20.03)
+
 ### Security
 * [Add htpasswd protection](https://github.com/propeoplemd/cibox/issues/70)
 * [Default permissions](https://github.com/propeoplemd/cibox/issues/73)
 * [Security scanners](https://github.com/propeoplemd/cibox/issues/93)
 * [Puppet ssh key fix](https://github.com/propeoplemd/cibox/issues/94)
+
 ### Bugs
 * [JSHINT fixes](https://github.com/propeoplemd/cibox/issues/84)
+
 ### Features
 * [Enpower CIBOX's repo with own jenkins builder](https://github.com/propeoplemd/cibox/issues/51)
 * [Add environment variables](https://github.com/propeoplemd/cibox/issues/95)
@@ -22,6 +25,7 @@
 * [Install mailcatcher](https://github.com/propeoplemd/cibox/issues/82)
 
 ## 3-4 week (23.03-03.04)
+
 ### Performance
 * [MYSQL tmpdir to ram](https://github.com/propeoplemd/cibox/issues/5)
 * [MYSQL caches options](https://github.com/propeoplemd/cibox/issues/57)
