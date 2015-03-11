@@ -12,6 +12,7 @@
 * [JSHINT fixes](https://github.com/propeoplemd/cibox/issues/84)
 
 ### Features
+* [Integrate behat tests](https://github.com/propeoplemd/cibox/pull/87)
 * [Enpower CIBOX's repo with own jenkins builder](https://github.com/propeoplemd/cibox/issues/51)
 * [Add environment variables](https://github.com/propeoplemd/cibox/issues/95)
 * [rename drupal folder to docroot (Acquia)](https://github.com/propeoplemd/cibox/issues/92)
