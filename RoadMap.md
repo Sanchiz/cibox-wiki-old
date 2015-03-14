@@ -10,6 +10,7 @@
 
 ### Bugs
 * [JSHINT fixes](https://github.com/propeoplemd/cibox/issues/84)
+* [Jenkins fix](https://github.com/propeoplemd/cibox/issues/100)
 
 ### Features
 * [Integrate behat tests](https://github.com/propeoplemd/cibox/pull/87)
