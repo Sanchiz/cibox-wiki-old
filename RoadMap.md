@@ -19,7 +19,7 @@
 * **(done) **[preconfigure xdebug](https://github.com/propeoplemd/cibox/issues/67)
 * [Add nginx as option](https://github.com/propeoplemd/cibox/issues/35)
 * [Backport NAS,SJ,TFALL stuff to cibox](https://github.com/propeoplemd/cibox/issues/45)
-* [Backport NAS features](https://github.com/propeoplemd/cibox/issues/83)
+* **(done) **[Backport NAS features](https://github.com/propeoplemd/cibox/issues/83)
 * [Install mailcatcher](https://github.com/propeoplemd/cibox/issues/82)
 
 ## 3-4 week (23.03-03.04)
