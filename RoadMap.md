@@ -5,7 +5,7 @@
 ### Security
 * **(done) **[Add htpasswd protection](https://github.com/propeoplemd/cibox/issues/70)
 * **(done) **[Default permissions](https://github.com/propeoplemd/cibox/issues/73)
-* [Security scanners](https://github.com/propeoplemd/cibox/issues/93)
+* **(done) **[Security scanners](https://github.com/propeoplemd/cibox/issues/93)
 
 ### Bugs
 * **(done) **[JSHINT fixes](https://github.com/propeoplemd/cibox/issues/84)
