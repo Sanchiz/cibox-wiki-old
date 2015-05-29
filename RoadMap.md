@@ -37,6 +37,7 @@
 * [Windows users docs](https://github.com/propeoplemd/cibox/issues/11)
 * [Investigate and integrate sonarqube code checker](https://github.com/propeoplemd/cibox/issues/9)
 * [Add cs-fixer to cibox](https://github.com/propeoplemd/cibox/issues/44)
+* [Initial errors counter](https://github.com/propeoplemd/cibox/issues/189)
 
 ### Features
 * [Integrate D8 support from past codesprint](https://github.com/propeoplemd/cibox/issues/39)
