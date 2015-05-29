@@ -1,6 +1,9 @@
 # RoadMap for CIBOX
 
-## 1-2 week (10.03-20.03)
+## (10.03-30.06)
+
+### Management/Marketing
+* [create HOW-To sell CIBox](https://github.com/propeoplemd/cibox/issues/191)
 
 ### Security
 * **(done) **[Add htpasswd protection](https://github.com/propeoplemd/cibox/issues/70)
@@ -22,7 +25,7 @@
 * **(done) **[Backport NAS features](https://github.com/propeoplemd/cibox/issues/83)
 * [Install mailcatcher](https://github.com/propeoplemd/cibox/issues/82)
 
-## 3-4 week (23.03-03.04)
+## (01.07-01.08)
 
 ### Performance
 * **(done) **[MYSQL tmpdir to ram](https://github.com/propeoplemd/cibox/issues/5)
