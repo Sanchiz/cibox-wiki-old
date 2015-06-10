@@ -4,7 +4,9 @@ This article should be as main document for reference during code review.
 PHP
 =====
 
-=== Return early
+Return early
+====
+
 To keep readability in functions and methods, it is wise to return early if simple conditions apply that can be checked at the beginning of a method:
 
 ```php
