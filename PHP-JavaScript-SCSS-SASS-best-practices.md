@@ -6,7 +6,7 @@ For adding a rule - please fill the issue https://github.com/propeoplemd/cibox/i
 PHP
 =====
 
-Return early
+Return early pattern
 ====
 
 To keep readability in functions and methods, it is wise to return early if simple conditions apply that can be checked at the beginning of a method:
@@ -58,6 +58,29 @@ function foo($bar, $baz)
     return $calculated_value;
 }
 ?>
+```
+
+Define early pattern
+=====
+
+When you have a condition that aims to change the value of variable without additional logic, get rid of ```if else elseif``` code, just define early variable and change it via conditions
+
+Before:
+```php
+if ($a = 'hello') {
+ $text = 'Welcome to site';
+}
+else {
+ $text = 'Register please';
+}
+```
+
+After:
+```php
+$text = 'Register please';
+if ($a = 'hello') {
+ $text = 'Welcome to site';
+}
 ```
 
 Drupal Features Revert
