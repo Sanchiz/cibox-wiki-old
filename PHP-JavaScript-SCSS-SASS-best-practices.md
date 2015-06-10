@@ -100,6 +100,27 @@ Example:
   );
 ```
 
+Field getters for Drupal
+=====
+
+It is better to avoid of multilevel getters
+
+```php
+$position = '';
+    if (!empty($node->field_contact_title[LANGUAGE_NONE])) {
+      $position_item = $node->field_contact_title[LANGUAGE_NONE];
+      $position = $position_item[0]['safe_value'];
+    }
+```
+and use drupal-style ones
+
+```php
+$position = '';
+    if ($position_item = field_get_items('node', $press_contact, 'field_contact_title')) {
+      $position = $position_item[0]['safe_value'];
+    }
+```
+
 
 Javascript
 =====
