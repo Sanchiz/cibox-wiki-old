@@ -57,3 +57,27 @@ function foo($bar, $baz)
 }
 ?>
 ```
+
+Drupal Features Revert
+=====
+
+When you following hook_update_N path and need to revert feature, never use ```feature_revert_module()``` function, because it is slow and there is more faster solution - ```feature_revert()``` for reverting only particular component of the feature to be reverted.
+
+Example:
+```php
+  features_revert(
+    array(
+      'gc_user_feature' => array(
+        'field_base',
+        'field_instance',
+      ),
+    )
+  );
+```
+
+
+Javascript
+=====
+
+SCSS/SASS
+=====
