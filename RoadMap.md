@@ -17,11 +17,11 @@
 ### Features
 * **(done) **[Enpower CIBOX's repo with own jenkins builder](https://github.com/propeoplemd/cibox/issues/51)
 * [Add environment variables](https://github.com/propeoplemd/cibox/issues/95)
-* [rename drupal folder to docroot (Acquia)](https://github.com/propeoplemd/cibox/issues/92)
+* **(done) **[rename drupal folder to docroot (Acquia)](https://github.com/propeoplemd/cibox/issues/92)
 * [Per build subdomain feature](https://github.com/propeoplemd/cibox/issues/74)
 * **(done) **[preconfigure xdebug](https://github.com/propeoplemd/cibox/issues/67)
 * [Add nginx as option](https://github.com/propeoplemd/cibox/issues/35)
-* [Backport NAS,SJ,TFALL stuff to cibox](https://github.com/propeoplemd/cibox/issues/45)
+* **(done) **[Backport NAS,SJ,TFALL stuff to cibox](https://github.com/propeoplemd/cibox/issues/45)
 * **(done) **[Backport NAS features](https://github.com/propeoplemd/cibox/issues/83)
 * [Install mailcatcher](https://github.com/propeoplemd/cibox/issues/82)
 
