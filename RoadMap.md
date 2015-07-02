@@ -1,6 +1,6 @@
 # RoadMap for CIBOX
 
-Automation - is a process, so roadmap is a bit confusing term for it. Anyway - we have directions of development, that we faced during approaching different projects
+Automation - is a process, and we have directions of development, that we faced during approaching different projects
 
 ### Code development
 * [Fill in best practices for our languages](https://github.com/propeoplemd/cibox/wiki/PHP-JavaScript-SCSS-SASS-best-practices)
