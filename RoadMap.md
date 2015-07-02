@@ -3,14 +3,14 @@
 Automation - is a process, so roadmap is a bit confusing term for it. Anyway - we have directions of development, that we faced during approaching different projects
 
 ### Code development
-[Fill in best practices for our languages](https://github.com/propeoplemd/cibox/wiki/PHP-JavaScript-SCSS-SASS-best-practices)
+* [Fill in best practices for our languages](https://github.com/propeoplemd/cibox/wiki/PHP-JavaScript-SCSS-SASS-best-practices)
 
 ### Code sharing
 
 ### Contribution to CIBox
 
 ### Project Management
-[Create skeletons for all PM docs](https://github.com/propeoplemd/cibox/issues/216)
+* [Create skeletons for all PM docs](https://github.com/propeoplemd/cibox/issues/216)
 
 ### Marketing
 * [create HOW-To sell CIBox](https://github.com/propeoplemd/cibox/issues/191)
