@@ -11,6 +11,7 @@ Automation - is a process, and we have directions of development, that we faced 
 
 ### Frontend automation
 * [How to compile sass on Windows](https://github.com/propeoplemd/cibox/wiki/Frontend)
+* [GULP workflow](https://github.com/propeoplemd/cibox/issues/221)
 
 ### Contribution to CIBox
 
