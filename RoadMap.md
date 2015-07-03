@@ -9,7 +9,7 @@ Automation - is a process, and we have directions of development, that we faced 
 ### Code sharing
 
 ### Frontend automation
-[How to compile sass on Windows](https://github.com/propeoplemd/cibox/wiki/Frontend)
+* [How to compile sass on Windows](https://github.com/propeoplemd/cibox/wiki/Frontend)
 
 ### Contribution to CIBox
 
