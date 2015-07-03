@@ -4,6 +4,7 @@ Automation - is a process, and we have directions of development, that we faced 
 
 ### Code development
 * [Fill in best practices for our languages](https://github.com/propeoplemd/cibox/wiki/PHP-JavaScript-SCSS-SASS-best-practices)
+* [Import content](https://github.com/propeoplemd/cibox/issues/217)
 
 ### Code sharing
 
