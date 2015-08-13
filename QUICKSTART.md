@@ -1,6 +1,6 @@
 Welcome to CIBox development workflow
 
-Here you can see a quick how-to start current development workflow from scratch to first build for Pul Request.
+Here you can see a quick how-to start current development workflow from scratch to first build for Pull Request.
 
 * Clone repository to your local desktop. ```git clone https://github.com/propeoplemd/cibox.git```
 * Create your own Ubuntu 14.04 powered virtual machine, vps or dedicated server and get its IP address. We recommend [DigitalOcean VPS hosting](http://bit.ly/cibox-digitalocean), because we are using its droplets for spinning up CI instanses for ~2 years.
