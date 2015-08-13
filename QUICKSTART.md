@@ -3,7 +3,7 @@ Welcome to CIBox development workflow
 Here you can see a quick how-to start current development workflow from scratch to first build for Pul Request.
 
 * Clone repository to your local desktop. ```git clone https://github.com/propeoplemd/cibox.git```
-* Create your own Ubuntu 14.04 powered virtual machine, vps or dedicated server and get its IP address
+* Create your own Ubuntu 14.04 powered virtual machine, vps or dedicated server and get its IP address. We recommend [DigitalOcean VPS hosting](http://bit.ly/cibox-digitalocean), because we are using its droplets for spinning up CI instanses for ~2 years.
 * Go into cloned ```cibox``` subfolder and add IP address of created machine to ```hosts``` file within a folder. It is simple ini file and there are examples of some testing hosts. Use unique name for your machine's ```IP```.
 * Open ```jenkinsbox.yml``` with your favorite editor and replace ```CHANGE_ME``` placeholders (your host name from hosts file and project name without special characters and whitespaces).
 * Run ```ansible-playbook jenkinsbox.yml``` from console of your desktop machine and wait untill all the software installed onto remote host. If there are errors during install or install been stalled for more than 5 minutes, try to stop ```CTRL-C``` and rerun the command untill it's done.
