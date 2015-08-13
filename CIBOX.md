@@ -1,5 +1,7 @@
 Welcome to the cibox wiki!
 
+[Quick Start how-to](https://github.com/propeoplemd/cibox/wiki/QUICKSTART)
+
 [RoadMap for development](https://github.com/propeoplemd/cibox/wiki/RoadMap)
 
 Current state of the project
