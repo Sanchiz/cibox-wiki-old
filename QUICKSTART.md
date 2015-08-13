@@ -15,7 +15,7 @@ Here you can see a quick how-to start current development workflow from scratch 
 ![BOT 1](http://druler.com/drulerfiles/github/bot1.png)
 * Open Jenkins users credentials ```http://IP:8080/credential-store/domain/_/``` and change CHANGE_ME placeholdered user with your bot's credentials.
 * ```DEMO``` and ```*PR_BUILDER``` jobs should have appropriate urls to github repository of your project. Please replace urls with CHANGE_ME placeholders to right ones. Also change user to your bot user within ```*PR_BUILDER``` settings
-![BOT 1](http://druler.com/drulerfiles/github/bot1.png)
+![BOT 2](http://druler.com/drulerfiles/github/bot2.png)
 * login to your Jenkins host machine via console under ```jenkins``` user credentials and create ssh key
 ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```. You should upload that key to github bot account for adding ability to access github repo from Jenkins server. You should [test connection](https://help.github.com/articles/generating-ssh-keys/#step-5-test-the-connection) and add github to known hosts before starting to use CI Box by this step. 
 * Create New Pull request for your project repo and wait ~5 minutes. You should get changed status and build comment afterwards.
