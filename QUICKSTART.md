@@ -11,8 +11,12 @@ Here you can see a quick how-to start current development workflow from scratch 
 * After successful run of ```jenkinsbox.yml``` playbook you should login into ```http://IP:8080``` Jenkins console with root credentials of your remote machine.
 
 #### Prepare GitHub project
-* Open ```github``` subfolder inside ```cibox``` folder and run ```ansible-playbook github.yml``` there. You'll get ```DEMO``` subfolder where all the files prepared for your future project. 
-* You should push content of the DEMO folder(not the folder itself) to github repository as is.
+* Open ```github``` subfolder inside ```cibox``` folder and run ```ansible-playbook github.yml``` there. You'll get ```DEMO``` subfolder where all the files prepared for your future project.
+* Create new Git repository inside ```DEMO``` project and push it to your remote repository on GitHub.
+
+#### How to work with project files?
+
+* Run `vagrant up` withing the `DEMO` directory and you'll get ready to use virtual machine.
 
 #### Configure connection from Jenkins to GitHub
 * Open Jenkins system settings ```http://IP:8080/configure```, then open ```Configure System``` item and add your own github bot user credentials and access token.
