@@ -11,7 +11,7 @@ If during `drush updb` you have "Segmentation fault" error, probably this caused
 
 ![](https://cloud.githubusercontent.com/assets/1316234/8358001/88a4d81e-1b66-11e5-8476-9c8ad068c2ad.png)
 
-Apply Drupal core path to `file_scan_directory` function.
+Apply Drupal core patch to `file_scan_directory` function.
 
 ```php
 diff --git a/drupal/includes/file.inc b/drupal/includes/file.inc
