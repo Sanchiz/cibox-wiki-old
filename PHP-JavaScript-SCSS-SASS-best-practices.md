@@ -109,7 +109,7 @@ It is better to avoid of multilevel getters
 $position = '';
     if (!empty($node->field_contact_title[LANGUAGE_NONE])) {
       $position_item = $node->field_contact_title[LANGUAGE_NONE];
-      $position = $position_item[0]['safe_value'];
+      // $position = $position_item[0]['safe_value'];
     }
 ```
 and use drupal-style ones with i18n support
@@ -118,7 +118,7 @@ and use drupal-style ones with i18n support
 global $language;
 $position = '';
     if ($position_item = field_get_items('node', $press_contact, 'field_contact_title', $language->language)) {
-      $position = $position_item[0]['safe_value'];
+      // $position = $position_item[0]['safe_value'];
     }
 ```
 
