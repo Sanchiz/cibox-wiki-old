@@ -112,11 +112,12 @@ $position = '';
       $position = $position_item[0]['safe_value'];
     }
 ```
-and use drupal-style ones
+and use drupal-style ones with i18n support
 
 ```php
+global $language;
 $position = '';
-    if ($position_item = field_get_items('node', $press_contact, 'field_contact_title')) {
+    if ($position_item = field_get_items('node', $press_contact, 'field_contact_title', $language->language)) {
       $position = $position_item[0]['safe_value'];
     }
 ```
