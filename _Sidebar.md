@@ -1,4 +1,4 @@
-* [[Overview]]
+* [[Home]]
 * [[QUICKSTART]]
 * [[About CIBox]]
   * [[Videos and presentations]]
