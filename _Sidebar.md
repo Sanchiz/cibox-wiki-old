@@ -5,4 +5,6 @@
   * [[Roadmap]]
 * [[Best Practices]]
   * [[PHP and Drupal]]
+  * [[Javascript]]
+  * [[SCSS/SASS]]
 * [[Troubleshooting]]
