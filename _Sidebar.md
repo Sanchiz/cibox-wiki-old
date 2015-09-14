@@ -4,6 +4,5 @@
   * [[Videos and presentations]]
   * [[Roadmap]]
 * [[Best Practices]]
-  * [[Frontend]]
-  * [[Backend]]
+  * [[PHP/Drupal]]
 * [[Troubleshooting]]
