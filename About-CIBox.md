@@ -14,8 +14,3 @@ Current state of the project
 - currently all developers think about CI workflow as "it is bad", because they can't fix-fix-fix-deploy fast. I must say that the only team, that is working with CI with respect is Ukraininan team. Mostly because of me, Yuriy Gerasimov and other team members have made decision - "we are working only this way and won't break the things". It is not about "we are cool, You are not", it is about corporate culture should be fixed/improved every day.
 
 - currently there are not so many DevOps guys, that are prepared to work with CIBOX and injected as developers to the project teams. I see that all our(FFW) administrators(Ops) are not involved within development teams. They are offline. We have "shadow" army of admins that work not with the teams alltogether . They are not familiar with developer's troubles and can't help improve workflow and decrease issues. They are not interested yet. Their passion not at visible surface.Thats why they are just admins, not DevOps. We have to fix this issue.
-
-- There are presentations, created to overview how it works. 
-http://www.slideshare.net/podarok/drupal-continuous-integration-workflow
-http://www.slideshare.net/podarok/start-using-vagrant-now
-http://www.slideshare.net/podarok/live-deployment-ci-drupal
