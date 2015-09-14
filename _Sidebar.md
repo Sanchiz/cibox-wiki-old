@@ -8,3 +8,5 @@
   * [[Javascript]]
   * [[SCSS/SASS]]
 * [[Troubleshooting]]
+* [[Usage]]
+  * [[How to use compass on Windows]]
