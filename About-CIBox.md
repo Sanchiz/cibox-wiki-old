@@ -1,3 +1,5 @@
+> [Wiki](Home) ▸ **About CIBox**
+
 Welcome to the cibox wiki!
 
 [Quick Start how-to](https://github.com/propeoplemd/cibox/wiki/QUICKSTART)
