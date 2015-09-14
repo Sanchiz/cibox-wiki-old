@@ -4,6 +4,6 @@
   * [[Videos and presentations]]
   * [[Roadmap]]
 * [[Best Practices]]
-  * [[Front-end]]
-  * [[Back-end]]
+  * [[Frontend]]
+  * [[Backend]]
 * [[Troubleshooting]]
