@@ -6,7 +6,7 @@
 * [[Best Practices]]
   * [[PHP and Drupal]]
   * [[Javascript]]
-  * [[SCSS/SASS]]
+  * [[SCSS and SASS]]
 * [[Troubleshooting]]
 * [[Usage]]
   * [[How to use compass on Windows]]
