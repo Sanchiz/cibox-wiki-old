@@ -1,3 +1,8 @@
+> [Wiki](Home) ▸ [[Usage]] ▸ **How to reinstall your site**
+
+How to use Vagrant box on Windows
+=====
+
 For ability to work with a site using virtualization environment, please, use this recipe
 
 - install latest virtualbox
