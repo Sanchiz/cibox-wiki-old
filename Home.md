@@ -8,14 +8,14 @@ We are using a lot of technologies inside CIBox. Main tools in CIBox is Ansible.
 ## CIBox parts
 CIBox allows you to start new project from scratch. In order to make this process smoother and easier, we can distinguish 3 parts of the CIBox.
 
-### Provisioner
+#### Provisioner
 
 Provisioner gives you ability to configure continuous integration server in a few minutes. CI server can generate builds for your project, make deployments, backups and other maintenance tasks.
 
-### Vagrant box
+#### Vagrant box
 Vagrant box gives you ability to work with project locally with the same configuration as your primary(production) environment.
 
-### GitHub project builder
+#### GitHub project builder
 GitHub project builder gives you ability to build GitHub project in order to start communication between CI server and source code of your project.
 
 ## Which problems can CIBox solve?
