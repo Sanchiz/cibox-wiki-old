@@ -29,7 +29,7 @@ PROJECT-SHORTNAME_MODULE-NAME_feature e.g. ```cibox_deployments_feature```
 Code sharing
 =====
 
-For ability to support code sharing MODULE-NAME should be selected in relation to business logic of the module. It is not good to create modules by abstracting it our of business. All the modules, ejected to drupal.org from our past project were possible to share only because they represents some feature, tied to business. 
+For ability to support code sharing MODULE-NAME should be selected in relation to business logic of the module. It is not good to create modules by abstracting it out of the business. All the modules, ejected to drupal.org from our past project were possible to share only because they represents some feature, tied to business. 
 Like 
 - salespush - pushing data to SalesForce
 - acrypt - Asymetric crypt alghoritm
