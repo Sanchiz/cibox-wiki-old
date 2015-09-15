@@ -18,7 +18,7 @@ Vagrant box gives you ability to work with project locally with the same configu
 #### GitHub project builder
 GitHub project builder gives you ability to build GitHub project in order to start communication between CI server and source code of your project.
 
-## Which problems can CIBox solve?
+## Which problems can solve CIBox?
 * Automate deployments
 * Automate builds
 * Organize local environment for developers
