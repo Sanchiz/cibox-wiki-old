@@ -1,6 +1,6 @@
 # Welcome to the CIBox wiki!
 
-CIBox is an open source tool, that allows you configure CI workflow in few minutes. CIBox created mostly for DevOps and for users who are familiar with technologies.
+CIBox is an open source tool, that allows you to configure CI workflow in few minutes. CIBox created mostly for DevOps and for users who are familiar with technologies.
 
 ## Technologies
 We are using a lot of technologies inside CIBox. Main tools in CIBox is Ansible. Also we're using Jenkins as a continuous integration server and a lot of other technologies. Just go through source code if you want to know what is under the hood of CIBox.
