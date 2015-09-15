@@ -10,7 +10,7 @@ dev or stage or even production environment locally.
 Keep in mind that this script used by Jenkins server for getting Pull Request builds.
 By overriding variables, that you can find within current playbook you can run it
 with different conditions. These conditions can pre configure your drupal based software
-- beed installed from scratch by using profile
+- been installed from scratch by using profile
 - pre configure your drupal site by using extra provided database dump via url
 
 So you should think about this script as universal tool, or may be better wording = application
