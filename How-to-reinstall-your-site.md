@@ -38,7 +38,7 @@ ansible-playbook reinstall.yml --extra-vars="installation_profile_name=minimal"
 ```
 which helps you to get reinstalled drupal by using minimal drupal's standard profile.
 Every variable, shipped with CIBOX suite can be overridden by the way above, just pass
-them divided by whitespaces one after each other in a raw within --extra-vars command line key.
+them divided by whitespaces one after each other in a row within --extra-vars command line key.
 
 Widely used variables
 =====
