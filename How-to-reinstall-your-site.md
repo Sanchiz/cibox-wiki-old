@@ -155,12 +155,12 @@ becomes non convenient for developers. Thats why there is ```sql``` flow predefi
 playbook.
 For switching to ```sql``` flow type, there are steps to be done for making it working.
 - change to ```workflow_type: sql```
-- create regular SQL db dumper from staging or production environment, depending of the flow complexity.
+- create regular SQL db dump from staging or production environment, depending of the flow complexity.
  There is a BACKUP_PROD_DB job shipped by CIBOX suite for boilerplate example how to approach db dump.
- The idea behind this to get dump periodically (daily, hourly), depending of project requirements and
+ The idea behind this is to get dumps periodically (daily, hourly), depending of project requirements and
  to put it to webserver folder for ability to download from any environment and to use for DEV, PR, STAGE
  or eny other environments.
-- Depending of flow complexity you might want to have more than one DB dumpers - one for preparing dev
+- Depending on flow complexity you might want to have more than one DB dumpers - one for preparing dev
  environment by using staging database, second one for preparing staging environment by using production
  database. For approaching this you should add secondary DB DUMP job with appropriate configs and extend
  reinstall.yml for using respective dumps for different ```pp_environment``` states. 
