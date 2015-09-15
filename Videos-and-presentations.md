@@ -12,6 +12,7 @@
 ## Videos:
 * [DrupalCamp Kyiv 2015: Workshop. How to start using Continuous Integration Box](https://www.youtube.com/watch?t=303&v=HgVZm0cxC0I)
 * [DrupalCon Los Angeles 2015: Multidimensional testing workflow before merge to master](https://www.youtube.com/watch?v=o0pqKqnhWgw)
+* [CIbox - OpenSource solution for making your #devops better - DrupalCafe Kyiv](http://druler.com/node/888)
 
 ## Screencasts:
 * [How to setup cibox and github repo](https://www.youtube.com/watch?v=EJZcqTcycf0), **outdated**
