@@ -10,6 +10,7 @@
 * [Live deployment, CI, Drupal](http://www.slideshare.net/podarok/live-deployment-ci-drupal)
 
 ## Videos:
+* [DrupalCon Barcelona 2015: CIBox - full stack open source Continuous Integration flow](https://www.youtube.com/watch?v=4-Ol8kN_A0M)
 * [DrupalCamp Kyiv 2015: Workshop. How to start using Continuous Integration Box](https://www.youtube.com/watch?t=303&v=HgVZm0cxC0I)
 * [DrupalCon Los Angeles 2015: Multidimensional testing workflow before merge to master](https://www.youtube.com/watch?v=o0pqKqnhWgw)
 * [CIbox - OpenSource solution for making your #devops better - DrupalCafe Kyiv](http://druler.com/node/888)
