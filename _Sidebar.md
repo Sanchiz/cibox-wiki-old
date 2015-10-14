@@ -9,6 +9,7 @@
   * [[Configure connection from Jenkins to GitHub|QUICKSTART#configure-connection-from-jenkins-to-github]]
   * [[Create first PR on GitHub|QUICKSTART#create-first-pr-on-github]]
   * [[hook_update_N path|Adopting-old-drupal-site-to-CI.-Switch-to-SQL-flow]]
+  * [[Securing CI server|QUICKSTART#securing-ci]]
 * **[[About CIBox]]**
   * [[Videos and presentations]]
   * [[Roadmap]]
