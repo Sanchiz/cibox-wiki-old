@@ -46,3 +46,7 @@ If you use `git://` and `SSH` authentication (e.g. `git@github.com:propeoplemd/c
 #### Create first PR on GitHub
 * Create New Pull request for your project repo and wait ~5 minutes. You should get changed status and build comment afterwards.
 * For debugging Jenkins problems use ```http://IP:8080/log/all``` UI or ```/var/log/jenkins/jenkins.log``` on your Jenkins server. Also take a look at [Known Issues wiki page](https://github.com/propeoplemd/cibox/wiki/Known-Issues) for a possible issues.
+
+##### Securing CI
+For adding more security to spinned up CI server you need to close Jenkins port (8080 by default) via adding nginx/apache htpasswd protection or adding VPN connection only to the server.
+Keep in ming that Jenking is not good in terms of security even if you will disable everything to anonymous user.
