@@ -49,4 +49,4 @@ If you use `git://` and `SSH` authentication (e.g. `git@github.com:propeoplemd/c
 
 ##### Securing CI
 For adding more security to spinned up CI server you need to close Jenkins port (8080 by default) via adding nginx/apache htpasswd protection or adding VPN connection only to the server.
-Keep in ming that Jenking is not good in terms of security even if you will disable everything to anonymous user.
+Keep in mind that Jenking is not good in terms of security even if you will disable everything to anonymous user.
