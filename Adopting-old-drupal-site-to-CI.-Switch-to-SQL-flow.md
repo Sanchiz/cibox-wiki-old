@@ -1,7 +1,3 @@
-There are projects, when there is already working site, based on Drupal.
-And there is no way to work with profile flow for the site, at least in terms of fast development.
-So the only option is SQL flow, but there are steps you should follow to get success.
-
 hook_update_N()
 =====
 
