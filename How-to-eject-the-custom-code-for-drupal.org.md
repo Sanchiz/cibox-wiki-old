@@ -1,3 +1,6 @@
+During project development progress some parts of the project can be ejected as modules to drupal.org
+Below you can find a small how-to approach it with cleaning sensitive data and replacing corporate emails from the history to ones that are used on drupal.org
+
 * Pretty standard development for the module in sites/all/modules/custom/MODULENAME
 * Run a command 
 
