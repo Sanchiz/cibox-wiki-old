@@ -7,7 +7,7 @@ When Ansible 2 has been released, some of Vagrant machines may have errors. Here
 2. Go into vagrant folder in CLI
 
     ```bash
-    cd vagrant
+    cd provisioning
     # or
     cd puphpet
     ```
