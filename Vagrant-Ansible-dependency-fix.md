@@ -2,7 +2,7 @@ When Ansible 2 has been released, some of Vagrant machines may have errors. Here
 
 1. Find Vagrant folder in your project. It may have following names:
   - `puphpet` (for old boxes)
-  - `vagrant` (for new boxes)
+  - `provisioning` (for new boxes)
 
 2. Go into vagrant folder in CLI
 
